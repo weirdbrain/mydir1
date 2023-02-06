@@ -1,0 +1,9 @@
+HII All
+good morning
+thanks for attending devops session
+this is sed command
+F
+H
+J
+K
+L
